@@ -207,9 +207,7 @@ tr:nth-child(even) {
   display: block;
 }
 .footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  margin-top: 7px;
   text-align: center;
   color: #888888;
   padding-bottom: 0;
