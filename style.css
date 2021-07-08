@@ -206,6 +206,15 @@ tr:nth-child(even) {
 .display-localD {
   display: block;
 }
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  color: #888888;
+  padding-bottom: 0;
+  width: 100%;
+}
 @keyframes dmp {
   0% {
     opacity: 0.2;
