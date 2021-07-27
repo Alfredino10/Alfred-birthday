@@ -26,7 +26,7 @@ const hideData = document.querySelector('.close-page');
 
 let userName = [];
 
-const birth = new Date('Jul 16, 2021 00:00:00');
+const birth = new Date('Jul 16, 2022 00:00:00');
 const birthDay = birth.getTime();
 
 window.addEventListener('load', function () {
